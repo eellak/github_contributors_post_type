@@ -11,7 +11,7 @@
  * @wordpress-plugin
  * Plugin Name: Greek Github Contributors Post Type
  * Plugin URI:  
- * Description: Accomodate the github api retrieved json into custom post type instances.
+ * Description: Register the custom post type for the use in Greek Github Contributors registry.
  * Version:     0.1
  * Author:      David Bromoiras
  * Author URI:  https://www.anchor-web.gr
